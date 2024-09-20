@@ -5,4 +5,7 @@
 system.out.println("Rameses is #1!");
 Output: Rameses is #1!
 ```
-
+## Rameses to-do list:
+- [x] Be awesome
+- [ ] Do laundry
+- [x] Beat dook 
